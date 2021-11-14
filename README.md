@@ -3,8 +3,6 @@
 
 
 
- - My main focus is on programming both hardware and software. 
-
  - Peep my portfolio at [John Munene](https://munene-portfolio.web.app/).
  
  - 📫 Email me at johnmunene0940@gmail.com
