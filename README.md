@@ -4,7 +4,7 @@
 
 
  - I’m currently learning Python.
- - Check out my portfolio at [John Munene](https://munene-portfolio.web.app/)
+ - Check out my portfolio at [John Munene](https://munene-portfolio.web.app/).
  
  - 📫 How to reach me: johnmunene0940@gmail.com
  
