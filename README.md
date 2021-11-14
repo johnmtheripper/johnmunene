@@ -3,8 +3,9 @@
 
 
 
- 
- - View my portfolio at [John Munene](https://munene-portfolio.web.app/).
+ - My main focus is on hardware, AI and graphics.  
+
+ - Peep my portfolio at [John Munene](https://munene-portfolio.web.app/).
  
  - 📫 Email me at johnmunene0940@gmail.com
  
