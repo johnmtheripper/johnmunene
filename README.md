@@ -4,7 +4,7 @@
 
 
  
- - Check out my portfolio at [John Munene](https://munene-portfolio.web.app/).
+ - Look at my portfolio at [John Munene](https://munene-portfolio.web.app/).
  
  - 📫 How to reach me -> email: johnmunene0940@gmail.com
  
