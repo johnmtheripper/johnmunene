@@ -3,6 +3,7 @@
 
 
 
- I’m currently learning Python.
- How to reach me: [john.ndwiga@strathmore.edu]()
+ - I’m currently learning Python.
+ 
+ - 📫 How to reach me: johnmunene0940@gmail.com
 
