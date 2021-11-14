@@ -6,7 +6,7 @@
  
  - View my portfolio at [John Munene](https://munene-portfolio.web.app/).
  
- - 📫 How to reach me -> email: johnmunene0940@gmail.com
+ - 📫 Email me at johnmunene0940@gmail.com
  
  
  
