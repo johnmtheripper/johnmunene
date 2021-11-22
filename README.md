@@ -2,11 +2,11 @@
 
 
 
- - I'm currently Learning Python and OpenGL in C++
  
- - Peep my portfolio at [John Munene](https://munene-portfolio.web.app/).
  
- - 📫 Email me at johnmunene0940@gmail.com
+ - See my portfolio at [John Munene](https://munene-portfolio.web.app/).
+ 
+ - 📫 Email me at johnmunene0940@gmail.com.
  
  
  
