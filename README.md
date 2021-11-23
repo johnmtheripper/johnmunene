@@ -5,6 +5,7 @@
  
  
  - See my portfolio at [John Munene](https://munene-portfolio.web.app/).
+ - I'm currently learning Python
  
  
  
