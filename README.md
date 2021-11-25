@@ -4,7 +4,7 @@
 
  
  
- - See my portfolio at [John Munene](https://munene-portfolio.web.app/).
+ - See my portfolio [here](https://munene-portfolio.web.app/).
  
  
  
