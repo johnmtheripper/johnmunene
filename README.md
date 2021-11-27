@@ -6,7 +6,7 @@
  
  - See my portfolio [here](https://munene-portfolio.web.app/).
  - I'm currently learning how to build games using OpenGL C++.
- - Here's is a cool fact: Did you know that playing action video games helps people make right decisions faster?
+ - Here's a cool fact: Did you know that playing action video games helps people make right decisions faster?
  
  
  
