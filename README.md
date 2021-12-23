@@ -4,7 +4,7 @@
 
  
  
- - See my portfolio [here](https://munene-portfolio.web.app/).
+ - Check out my portfolio [here](https://munene-portfolio.web.app/).
  
  
  
