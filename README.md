@@ -17,8 +17,8 @@
 
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMunene&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
- 
+  <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnMunene&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=3u3unw&theme=radical)](https://github.com/3u3unw)
  [![Munene's GitHub stats](https://github-readme-stats.vercel.app/api?username=3u3unw&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   <!--
