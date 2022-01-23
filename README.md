@@ -1,6 +1,6 @@
 
  
-- Visit my personal website -> https://johnmunene.com
+- https://johnmunene.com
 
  
  
