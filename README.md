@@ -1,6 +1,6 @@
 
  
- - Focusing on game dev and AI.
+ - Focusing on game dev.
  
  
  
