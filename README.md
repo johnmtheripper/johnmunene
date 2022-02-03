@@ -1,7 +1,5 @@
 
  
- - Focusing on game dev.
- 
  
  
  
